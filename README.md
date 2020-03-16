@@ -1,3 +1,13 @@
+NOTES: This is from an Eclipse project. It has project files. It has the .lib files. It does not have the generated libs, because each of those has a .git, and cannot be included in my shared project
+
+The goal is to share this project so that someone else can work on this. I know they are using our Eclipse IDE. Hence the project file
+
+The task is:
+* push a project (correctly) to GitHub
+* Pretend I am "Joe User" who is collaborating
+* Pull this repo and get it into MY MTB IDE and build it
+
+
 # PSoC 6 MCU: Hello World
 
 This code example demonstrates simple UART communication by printing a "Hello World" message on a terminal and blinks an LED using a Timer resource using PSoC® 6 MCU.
